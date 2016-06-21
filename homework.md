@@ -20,7 +20,7 @@
 The product shell will use aluminum alloy in consideration of radiating and safety. 
 The product will use standard 425080 Li-polymer battery to decrease weight and increase capacity.
 The product will take an Apple-style design as followed:
-![blueprint](dixyes.github.io/design.png)
+![blueprint](https://raw.githubusercontent.com/dixyes/dixyes.github.io/master/design.png)
 The product's size limited to 100x60x5 (mm) in order to make it easy to hold up, the round corners make it easy to pick up.
 The glass window provides a pretty clear way to inform the user available capacity, it also has a touchscreen as a button.
 #Time
